@@ -1,5 +1,5 @@
 # Simple CRUD PHP
-Esta utilidad sirve para generar tu CRUD de forma automática, necesita ser implementado utilizando programación orientada a objectos y esta testeada para MySQL.
+Esta utilidad sirve para generar un sólo CRUD para todo el proyecto el cual podrá ser utilizado por muchas clases, necesita ser implementado utilizando programación orientada a objectos y esta testeada para MySQL.
 
 # Implementación
 
@@ -12,8 +12,7 @@ Debes agregar tus credenciales de conexión a la base de datos, esto se hace en 
 + basedatos : nombre de la base de datos.
 
 ## 2. Configuración de tablas y campos
-
-Debes definir:
+Debes definir los nombres de tablas y campos en el archivo configuraciones.php:
 
 + nombre de la constante para ser llamada despúes con algún nombre reprensentativo.
 + nombre de la tabla.
