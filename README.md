@@ -79,4 +79,4 @@ Para ver una implementación revisa la carpeta de Ejemplo.
 
 
 # RESULTADO DE SENTENCIAS
-![alt Resultado de Sentencias](https://github.com/Willywes/Simple-CRUD-PHP/images/res.png)
+![alt Resultado de Sentencias](https://github.com/Willywes/Simple-CRUD-PHP/blob/master/images/res.png)
