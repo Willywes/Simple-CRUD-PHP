@@ -76,3 +76,7 @@ class Usuario extends Crud {
 # NOTA
 
 Para ver una implementación revisa la carpeta de Ejemplo.
+
+
+# RESULTADO DE SENTENCIAS
+![alt text](https://github.com/Willywes/Simple-CRUD-PHP/images/res.png)
